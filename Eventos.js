@@ -10,3 +10,4 @@ mEuEvento.on("seguranca", (x,y) =>{
 
 
 mEuEvento.emit('seguranca', 'userAdmin', ' alterou Salário')
+// emit estamos disarando ele.
